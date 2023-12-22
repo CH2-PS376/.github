@@ -1,5 +1,5 @@
 <p align="center">
-<img width="500" align="center" alt="Screenshot 2023-12-22 143842" src="https://github.com/CH2-PS376/.github/assets/121041485/edf36b21-cacf-4530-9fb6-9b623d277122">
+<img width="750" align="center" alt="Screenshot 2023-12-22 143842" src="https://github.com/CH2-PS376/.github/assets/121041485/edf36b21-cacf-4530-9fb6-9b623d277122">
 </p>
 
 
