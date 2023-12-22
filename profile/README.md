@@ -8,17 +8,18 @@ Florapedia is an innovative mobile application that leverages image recognition 
 
 Florapedia not only serves the purpose of identifying flora, but also functions as an educational center, providing users with information about the ecology of each protected species of flora. In addition to raising awareness, this educational component fosters a profound appreciation for the richness of Indonesia's flora. As a result, users are encouraged to actively contribute to its preservation. Florapedia is a ground-breaking initiative that combines technology, education, and active engagement to tackle threats to Indonesia's diverse biodiversity. Florapedia's mission is to make a lasting contribution to the conservation, education, and accurate identification of Indonesia's natural heritage for future generations.
 
+## Accesess the app ---> https://drive.google.com/file/d/1kcrUJLHAr9QBpu_s_V0ND2LGqCgwRStg/view
+
 ## Main Feature
 - Flora image scanning
 
-# Other Features
+## Other Features
 - Login
 - Register
 - Searching
 - Favourite
-  
 
-# Resources
+## Resources
 CC :
 - REST API : https://github.com/fthoniii/flora-guardian-api-backend
 - Model API : https://github.com/fthoniii/flora-guardian-api-backend
@@ -27,5 +28,5 @@ MD :
 - Mobile app : https://github.com/muhammadhaikal553/Florapedia/tree/main/MD
 
 ML : 
-- Trained Model :
-- Dataset : 
+- Trained Model : 
+- Dataset : https://drive.google.com/file/d/1YZqUz6rnexnGCY72Z90qaago8cvE_p9s/view
