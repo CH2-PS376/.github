@@ -1,5 +1,4 @@
-<img width="340" alt="image" src="https://github.com/CH2-PS376/.github/assets/121041485/c6a2bf39-88e9-40a1-9096-a108a88a1b88">
-
+<img width="340" alt="Screenshot 2023-12-22 143842" src="https://github.com/CH2-PS376/.github/assets/121041485/edf36b21-cacf-4530-9fb6-9b623d277122">
 
 
 
