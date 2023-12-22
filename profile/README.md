@@ -12,3 +12,16 @@ Florapedia not only serves the purpose of identifying flora, but also functions 
 - Flora image classification
 
 # Other Features
+
+
+# Resources
+CC :
+- REST API : https://github.com/fthoniii/flora-guardian-api-backend
+- Model API : https://github.com/fthoniii/flora-guardian-api-backend
+
+MD : 
+- Mobile app : https://github.com/muhammadhaikal553/Florapedia/tree/main/MD
+
+ML : 
+- Trained Model :
+- Dataset : 
