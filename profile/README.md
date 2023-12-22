@@ -1,5 +1,6 @@
+<p align="center">
 <img width="500" align="center" alt="Screenshot 2023-12-22 143842" src="https://github.com/CH2-PS376/.github/assets/121041485/edf36b21-cacf-4530-9fb6-9b623d277122">
-
+</p>
 
 
 Florapedia is an innovative mobile application that leverages image recognition and machine learning technology to provide users with complete and accurate information about protected flora. This application uses advanced technology to identify protected flora based on plant taxonomy. Florapedia's success depends on its user interface and experience. The platform prototype was carefully designed and created to make it attractive and easy to use. Rigorous testing procedures ensure a reliable and user-friendly app interface.
