@@ -28,5 +28,5 @@ MD :
 - Mobile app : https://github.com/muhammadhaikal553/Florapedia/tree/main/MD
 
 ML : 
-- Trained Model : 
+- Trained Model : https://drive.google.com/drive/folders/0AIlv-X0rKqT-Uk9PVA
 - Dataset : https://drive.google.com/file/d/1YZqUz6rnexnGCY72Z90qaago8cvE_p9s/view
