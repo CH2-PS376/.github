@@ -9,10 +9,14 @@ Florapedia is an innovative mobile application that leverages image recognition 
 Florapedia not only serves the purpose of identifying flora, but also functions as an educational center, providing users with information about the ecology of each protected species of flora. In addition to raising awareness, this educational component fosters a profound appreciation for the richness of Indonesia's flora. As a result, users are encouraged to actively contribute to its preservation. Florapedia is a ground-breaking initiative that combines technology, education, and active engagement to tackle threats to Indonesia's diverse biodiversity. Florapedia's mission is to make a lasting contribution to the conservation, education, and accurate identification of Indonesia's natural heritage for future generations.
 
 ## Main Feature
-- Flora image classification
+- Flora image scanning
 
 # Other Features
-
+- Login
+- Register
+- Searching
+- Favourite
+  
 
 # Resources
 CC :
