@@ -1,4 +1,5 @@
-![mocup1](https://github.com/CH2-PS376/.github/assets/121041485/7caeb313-7c49-4c8d-9f73-bac885214186) ![mockup2](https://github.com/CH2-PS376/.github/assets/121041485/b8817026-72a0-4f7c-b88c-3beb8986e7e9) ![mockup3](https://github.com/CH2-PS376/.github/assets/121041485/4b23dbda-9034-43f3-b5cb-4799473c1a41)
+<img width="340" alt="image" src="https://github.com/CH2-PS376/.github/assets/121041485/c6a2bf39-88e9-40a1-9096-a108a88a1b88">
+
 
 
 
